@@ -40,6 +40,15 @@ The app was split into 3 to avoid long processes errors in Heroku deployment.
 
 Code for the dash app can be found inside the `dashboard` folder.
 
+![image](app1-visual.gif)
+*Example usage of dash app1.*
+
+![image](app2-visual.gif)
+*Example usage of dash app2.*
+
+![image](app3-visual.gif)
+*Example usage of dash app3.*
+
 Comments are very welcome!
 
 Stay safe everyone!
